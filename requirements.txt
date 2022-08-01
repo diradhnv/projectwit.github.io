@@ -1,7 +1,7 @@
 matplotlib
 numpy                 
 pandas                
-Pillow                9.2.0
+Pillow                
 pip                   22.2
 pipenv                2022.7.24
 pipreqs               0.4.11
