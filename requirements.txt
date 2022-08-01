@@ -3,10 +3,10 @@ numpy
 pandas                
 Pillow                
 pip                   
-pipenv                2022.7.24
-pipreqs               0.4.11
-plotly                5.9.0
-plotly-express        0.4.1
-requests              2.28.1
-streamlit             1.11.1
-streamlit-lottie      0.0.3
+pipenv                
+pipreqs               
+plotly                
+plotly-express        
+requests              
+streamlit             
+streamlit-lottie      
