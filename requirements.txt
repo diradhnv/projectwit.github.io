@@ -2,7 +2,7 @@ matplotlib
 numpy                 
 pandas                
 Pillow                
-pip                   22.2
+pip                   
 pipenv                2022.7.24
 pipreqs               0.4.11
 plotly                5.9.0
