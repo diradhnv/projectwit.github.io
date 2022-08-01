@@ -1,6 +1,6 @@
 matplotlib
 numpy                 
-pandas                1.4.3
+pandas                
 Pillow                9.2.0
 pip                   22.2
 pipenv                2022.7.24
