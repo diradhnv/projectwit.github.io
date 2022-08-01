@@ -1,5 +1,5 @@
 matplotlib
-numpy                 1.23.1
+numpy                 
 pandas                1.4.3
 Pillow                9.2.0
 pip                   22.2
