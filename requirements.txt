@@ -77,8 +77,7 @@ pycparser
 pydeck                
 Pygments              
 Pympler               
-pyparsing             
-pypiwin32             
+pyparsing                        
 pyrsistent            
 python-dateutil       
 pyttsx3               
