@@ -83,8 +83,7 @@ pyrsistent
 python-dateutil       
 pyttsx3               
 pytz                  
-pytz-deprecation-shim 
-pywin32               
+pytz-deprecation-shim               
 pywinpty              
 pyzmq                 
 requests              
